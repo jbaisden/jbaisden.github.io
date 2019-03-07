@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Evolution a'la Iterative Failure"
-date:   2019-03-04 20:40:58 -0600
-categories: jekyll update
+date:   2019-03-04 10:40:58 -0600
+categories: dev disciplines
 ---
 I've found the hardest thing for me to do as a programmer is forgive myself. That's a shame because the ability to do this is so paramount to the all around betterment of a developer.
 
