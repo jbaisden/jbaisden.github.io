@@ -24,8 +24,10 @@ I've been doing this for about 2 weeks now and have developed a few rules.
 Emperically speaking, the benefits I've taken from this practice are:
 
 - Clear evidence of effort expended
-- Track record of what you were thinking at the time of an entry
+- Grants context to what you were thinking at the time of an entry. This is useful because what developer hasn't looked at old code they wrote and asked themselves "What the heck was I thinking??!!"
 - Data that can clearly show where your efforts are proving productive, where you're spinning your wheels, and where course correction is needed or was previously taken.
+- Material for blog posts
+- Provides a clear track-record of personal wins. 
 
 
 
