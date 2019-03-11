@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evolution a'la Iterative Failure"
+title:  "Evolution Through Iterative Failure"
 date:   2019-03-04 10:40:58 -0600
 categories: dev disciplines
 ---
