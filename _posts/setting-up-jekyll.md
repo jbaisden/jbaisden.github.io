@@ -8,7 +8,7 @@ categories: dev disciplines, blogging, github pages
 So I had some growing pains figuring out how to configure Jekyll, my github pages site, and my custom domain. This is one of those scenarios where the thing itself isn't hard, but rather it's a matter of finding the "right" instructions that speak to where you are in the process.
 
  # Jekyll Setup
-Jekyll itelf was fairly easy to get set up. Just follow their instruction at https://jekyllrb.com/docs/ and you shouldn't have much trouble.
+Jekyll itelf was fairly straightforward to get set up. Just follow their instruction at https://jekyllrb.com/docs/ and you shouldn't have much trouble.
 
 # Github Pages Setup
 The biggest gotcha with the Github Pages set up was that I didn't realize my repository **must** be named in the format <username>.github.io. In retrospect, this was made clear from the instructions. Hindsight, as they say, is 20/20.
