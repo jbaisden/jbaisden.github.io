@@ -2,7 +2,7 @@
 layout: post
 title:  "My worst Enemy...is me"
 date:   2019-03-26 -0600
-categories: "dev disciplines", "brutal honesty"
+categories: dev disciplines, brutal honesty
 ---
 
 So...it's been a while since I posted. I got sick. Then I lost momentum in learning. Things 
