@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My worst Enemy...is me"
+title:  "I Am My Own Worst Enemy"
 date:   2019-03-26 -0600
 categories: dev disciplines, brutal honesty
 ---
