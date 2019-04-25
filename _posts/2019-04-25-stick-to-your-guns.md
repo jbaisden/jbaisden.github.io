@@ -7,7 +7,7 @@ categories: dev disciplines, brutal honesty
 
 I'm going to tell you a story. Let me know if it sounds at all familiar.
 
-There was once a developer tired of doing the same thing day and day out. To add some spice to his life, he sets out to learn something new. After deliberating, questioning, forum seeking, and praying, he finally chooses what to learn and begins the long trek through the desert of confusion where, at the journeys end, he hopes to achieve understanding of this new art.
+There was once a developer that set out to learn something new. After deliberating, questioning, forum seeking, and praying, he finally chooses what to learn and begins the long trek through the desert of confusion where, at the journeys end, he hopes to achieve understanding of this new art.
 
 He was given this simple direction at the start of his journey: stay on the path. Many have gone before you and you must follow only the deepest footprints, for those are the ones set long ago by the ambitious that did not stray. And those that did stray rarely found their way back to the path. They wandered across many paths, but were doomed never to complete any of them.
 
